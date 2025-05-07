@@ -2,7 +2,7 @@ from pathlib import Path
 from itertools import chain
 
 FOLDER_PATH = Path('drive:/folder/another-folder/yet-another-folder')
-# FOLDER_PATH = Path('D:/Downloads')
+# FOLDER_PATH = Path('C:\Users\OE\Downloads')
 
 SUBFOLDER_NAME_TO_EXTENSIONS = {
     'video': ('mp4', 'mov', 'avi', 'mkv', 'wmv', 'mpg', 'mpeg', 'm4v', 'h264'),
